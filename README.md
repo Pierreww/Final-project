@@ -4,6 +4,8 @@ Final project
 This game can only be opened with Unity 5
 
 Unity 5 level design project
+
+
 Things included :
 - Third Person view character
 - water
@@ -11,6 +13,10 @@ Things included :
 - billboards
 - skybox
 - crossplatform unit
-- Storyline
+- Storyline.
+
+
+
+
 Download zip, extract the folder, open it up with unity 5
                               Enjoy
