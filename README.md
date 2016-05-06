@@ -6,8 +6,8 @@ Final project
 This game can only be opened with Unity 5
 
 language used:
-c#
-xml
+- c#
+
 
 Unity 5 level design project
 
